@@ -27,9 +27,6 @@ Spring Boot Application
 ↘
 Prometheus → Grafana
 
-yaml
-Copy code
-
 ---
 
 ## ✨ Key Features
@@ -87,8 +84,6 @@ Copy code
 GET /hello
 Response:
 
-text
-Copy code
 Hello from DevOps CI/CD Project 🚀
 📄 CI/CD Pipeline
 Triggered on push to main
